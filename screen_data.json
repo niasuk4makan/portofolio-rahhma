@@ -1,0 +1,339 @@
+{
+  "screenshot": {
+    "name": "projects/9886785470074420184/screens/0957482ade5549ff8263155bd7b94968/fileEntries/screenshot",
+    "downloadUrl": "https://lh3.googleusercontent.com/aida/AEtjO1X0Tu2lqoutzilInQwj6RnGAINKTSTpsyVOci3GxNFTIQMHnu2X46eUWqM1oQrrUtcTHvBlMvY-mFTfKz_cnP3itk4mkOvuhF9ifnOsIV2uJPx5aHIIKiRatnOPU90b1WAj0FBwczrGTynWPeWmV_Ni_Y9hJ8hjFGgMOBonlrZ1fbcuk2fHOW5_Y7kSc8p_a-n5iIFFZ0R8-gTs9wfzBgYEgMk9OcUUQC55ib1599sZ"
+  },
+  "htmlCode": {
+    "name": "projects/9886785470074420184/screens/0957482ade5549ff8263155bd7b94968/fileEntries/html",
+    "downloadUrl": "https://contribution.usercontent.google.com/download?c=CgthaWRhX2NvZGVmeBJxEgxzdGl0Y2hfZmlsZXMaYQosc3RpdGNoX2h0bWxfMDAwNjVkNDkyOThkNDE2NjA3YzRlNjQ4YWUxNjNmY2ESCxIHEKaC3oz1GxgBkgEjCgpwcm9qZWN0X2lkEhVCEzk4ODY3ODU0NzAwNzQ0MjAxODQ&filename=&opi=89354086",
+    "mimeType": "text/html"
+  },
+  "id": "0957482ade5549ff8263155bd7b94968",
+  "generatedBy": "figaro_agent",
+  "width": "780",
+  "height": "9502",
+  "title": "Portofolio Rahh Mania Ainnur - XI RPL SMKN 6 Surakarta",
+  "prompt": "Create a complete, single-page flowing mobile portfolio website for Rahh Mania Ainnur using the exact uploaded photo {{DATA:IMAGE:IMAGE_1}} as her prominent profile photo.\n\nThe layout must be responsive, modern, cute, soft pastel pink, clean, and professional for an XI RPL (Software Engineering) vocational high school student from SMKN 6 Surakarta.\n\nSections to include seamlessly within the page:\n\n1. HERO SECTION:\n- Prominent circular or rounded-3xl profile image container showing {{DATA:IMAGE:IMAGE_1}} with a neat, centered crop on her face and scouts uniform, decorated with a soft double pastel pink glowing ring border (ring-4 ring-pink-300 ring-offset-4 ring-offset-white shadow-xl).\n- Cute soft badge: \"✨ Siswi XI RPL • SMKN 6 Surakarta\" with a pink pastel pill background.\n- Greeting: \"Hello, I'm\" in friendly typography.\n- Main title/name: \"Rahh Mania Ainnur\" with elegant bold font.\n- Subtitle / role: \"Software Engineering Student & Aspiring Web Developer\".\n- Short bio description: \"Saya adalah siswi Rekayasa Perangkat Lunak yang tertarik dengan dunia teknologi, desain, dan pengembangan website.\"\n- CTA buttons side by side or stacked:\n  * \"View My Projects\" (primary button in vibrant soft rose pink with hover effect)\n  * \"Contact Me\" (secondary outline pastel button with icon)\n- Quick stat cards/highlights (e.g., \"11th Grade RPL\", \"SMKN 6 Surakarta\", \"Front-end & UI Lover\").\n\n2. ABOUT ME & EDUCATION SECTION:\n- Section header: \"About Me\" with cute subtext \"Mengenal saya lebih dekat\".\n- Profile card with structured info:\n  * Nama: Rahh Mania Ainnur\n  * Sekolah: SMKN 6 Surakarta\n  * Jurusan: Rekayasa Perangkat Lunak\n  * Kelas: XI RPL\n- Warm, natural description paragraph: \"Halo! Saya Rahh Mania Ainnur, siswi kelas XI jurusan Rekayasa Perangkat Lunak di SMKN 6 Surakarta. Saya memiliki antusiasme tinggi dalam mempelajari pemrograman, perancangan antarmuka pengguna (UI/UX), dan pembuatan aplikasi web yang interaktif serta ramah pengguna. Bagi saya, coding bukan hanya tentang baris kode, tapi juga seni menciptakan solusi digital yang bermanfaat dan estetis.\"\n- Education Card:\n  * Highlight card with school badge/icon: \"SMKN 6 Surakarta\"\n  * \"Rekayasa Perangkat Lunak (RPL)\"\n  * \"Kelas XI RPL • 2024 - Sekarang\"\n  * Short list of current focus: Web Development, Pemrograman Berorientasi Objek, Desain Web Responsif.\n\n3. SKILLS SECTION:\n- Section header: \"Skills & Abilities\" / \"Keahlian Saya\"\n- Grid of clean, cute skill cards with matching pastel accent badges and icons:\n  * HTML5 (Struktur & Semantic Web)\n  * CSS3 & Tailwind (Styling Modern & Responsif)\n  * JavaScript (Interaktivitas & Logika Web)\n  * PHP (Pemrograman Server-side & Backend dasar)\n  * Database / MySQL (Query, Desain Relasi Tabel)\n  * UI/UX Design (Wireframing, Prototyping, Figma)\n  * Git & GitHub (Version Control & Kolaborasi)\n- Each skill card features an icon, proficiency/familiarity pill badge, and a soft pastel accent border.\n\n4. PROJECTS SECTION:\n- Section header: \"Featured Projects\" / \"Proyek Terpilih\"\n- Project cards in responsive vertical cards:\n  1. \"Website Portofolio Pribadi\"\n     - Description: \"Website personal responsif dengan konsep pastel aesthetic untuk menampilkan identitas diri dan karya siswi RPL.\"\n     - Tags: HTML5, Tailwind CSS, JavaScript\n     - Button: \"View Project\" (demo placeholder modal/link)\n  2. \"Website Kelas XI RPL\"\n     - Description: \"Platform informasi jadwal, struktur organisasi, dan galeri kegiatan kelas XI Rekayasa Perangkat Lunak SMKN 6 Surakarta.\"\n     - Tags: PHP, MySQL, CSS, Bootstrap\n     - Button: \"View Project\"\n  3. \"Project UI/UX School App\"\n     - Description: \"Desain purwarupa aplikasi peminjaman buku perpustakaan sekolah dengan antarmuka yang bersih dan mudah digunakan.\"\n     - Tags: Figma, UI/UX, Design System\n     - Button: \"View Project\"\n  4. \"Project Pemrograman Dasar\"\n     - Description: \"Sistem aplikasi CRUD data siswa dan kalkulator logika berbasis web interaktif.\"\n     - Tags: JavaScript, DOM Manipulation, LocalStorage\n     - Button: \"View Project\"\n\n5. CONTACT SECTION:\n- Section header: \"Get in Touch\" / \"Hubungi Saya\"\n- Subtext: \"Tertarik untuk berkolaborasi atau sekadar bertukar ide? Jangan ragu untuk menghubungi saya!\"\n- Interactive Social & Direct Contact buttons with accurate details:\n  * Instagram: \"@nnniaww.mtcc\" (Link: https://instagram.com/nnniaww.mtcc) with Instagram icon and gradient pastel hover.\n  * TikTok: \"@mwwrahhz_\" (Link: https://tiktok.com/@mwwrahhz_) with TikTok icon.\n  * WhatsApp: \"0859708480016\" (Link: https://wa.me/62859708480016) with WhatsApp chat button.\n- Clean Contact Form:\n  * Inputs: Nama Lengkap, Alamat Email, Pesan Anda.\n  * Interactive submit button: \"Send Message\" with pink pastel gradient and send icon.\n  * Success notification simulation or toast alert.\n\n6. FOOTER:\n- Beautiful centered footer with delicate dividers.\n- \"© 2026 Rahh Mania Ainnur\"\n- \"Siswi XI RPL — SMKN 6 Surakarta\"\n- \"Dibuat dengan penuh semangat dan sentuhan pastel 💕\"\n\nUse Tailwind CSS throughout with soft pink pastel tones (#FDF2F4, #FCE7F3, #F472B6, #DB2777), subtle pink shadow glows, rounded-3xl corners, crisp readable typography, and complete mobile-first layout. The original photo {{DATA:IMAGE:IMAGE_1}} must be preserved without any AI alterations to her face or uniform.\n## Available Images\nYou MUST include the following images in this design. You must reference them\nby putting their exact placeholder IDs in `src` attributes or CSS\n`background-image` rules. Do NOT use external URLs or generate new\nplaceholders. Preserve these IDs exactly as written. Read each image's\nDescription to understand its subject, intended section, and visual role.\n\n- {{DATA:IMAGE:IMAGE_1}}\n  Description: gue.jpeg\n  Dimensions: 791x1600\n  Aspect Ratio: 0.49\n",
+  "name": "projects/9886785470074420184/screens/0957482ade5549ff8263155bd7b94968",
+  "theme": {
+    "colorMode": "LIGHT",
+    "font": "PLUS_JAKARTA_SANS",
+    "roundness": "ROUND_EIGHT",
+    "customColor": "#db2777",
+    "headlineFont": "PLUS_JAKARTA_SANS",
+    "bodyFont": "PLUS_JAKARTA_SANS",
+    "labelFont": "JETBRAINS_MONO",
+    "namedColors": {
+      "surface_dim": "#d0dbed",
+      "surface_container_highest": "#d9e3f6",
+      "on_secondary_fixed_variant": "#85145a",
+      "secondary": "#a43073",
+      "inverse_on_surface": "#eaf1ff",
+      "surface": "#f8f9ff",
+      "primary": "#b7005e",
+      "surface_container_lowest": "#ffffff",
+      "secondary_container": "#fc79bd",
+      "secondary_fixed": "#ffd8e7",
+      "on_primary_fixed": "#3f001c",
+      "on_tertiary_fixed": "#231820",
+      "secondary_fixed_dim": "#ffafd3",
+      "error": "#ba1a1a",
+      "on_tertiary_fixed_variant": "#51434c",
+      "surface_container_high": "#dee9fc",
+      "surface_container_low": "#eff4ff",
+      "inverse_surface": "#27313f",
+      "tertiary_fixed_dim": "#d5c1cd",
+      "on_tertiary_container": "#fffeff",
+      "on_error": "#ffffff",
+      "primary_container": "#db2777",
+      "outline": "#8d6f77",
+      "primary_fixed_dim": "#ffb1c7",
+      "inverse_primary": "#ffb1c7",
+      "on_primary_fixed_variant": "#8e0048",
+      "tertiary_fixed": "#f1dde9",
+      "primary_fixed": "#ffd9e2",
+      "error_container": "#ffdad6",
+      "on_primary_container": "#fffdff",
+      "tertiary": "#685962",
+      "on_surface": "#121c2a",
+      "surface_variant": "#d9e3f6",
+      "surface_container": "#e6eeff",
+      "on_secondary_container": "#76014e",
+      "on_secondary": "#ffffff",
+      "outline_variant": "#e1bec6",
+      "on_primary": "#ffffff",
+      "on_tertiary": "#ffffff",
+      "surface_bright": "#f8f9ff",
+      "background": "#f8f9ff",
+      "tertiary_container": "#81717b",
+      "on_background": "#121c2a",
+      "on_secondary_fixed": "#3d0026",
+      "surface_tint": "#ba0060",
+      "on_error_container": "#93000a",
+      "on_surface_variant": "#594047"
+    },
+    "colorVariant": "FIDELITY",
+    "overridePrimaryColor": "#db2777",
+    "overrideSecondaryColor": "#f472b6",
+    "overrideTertiaryColor": "#fce7f3",
+    "overrideNeutralColor": "#1f2937",
+    "spacingScale": 2,
+    "typography": {
+      "headline-lg-mobile": {
+        "fontFamily": "Plus Jakarta Sans",
+        "fontSize": "26px",
+        "fontWeight": "700",
+        "lineHeight": "34px",
+        "letterSpacing": "-0.01em"
+      },
+      "body-md": {
+        "fontFamily": "Plus Jakarta Sans",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "22px"
+      },
+      "headline-xl": {
+        "fontFamily": "Plus Jakarta Sans",
+        "fontSize": "44px",
+        "fontWeight": "800",
+        "lineHeight": "52px",
+        "letterSpacing": "-0.03em"
+      },
+      "headline-sm": {
+        "fontFamily": "Plus Jakarta Sans",
+        "fontSize": "18px",
+        "fontWeight": "600",
+        "lineHeight": "26px"
+      },
+      "body-lg": {
+        "fontFamily": "Plus Jakarta Sans",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "26px"
+      },
+      "label-md": {
+        "fontFamily": "JetBrains Mono",
+        "fontSize": "13px",
+        "fontWeight": "500",
+        "lineHeight": "18px",
+        "letterSpacing": "0.02em"
+      },
+      "label-sm": {
+        "fontFamily": "JetBrains Mono",
+        "fontSize": "11px",
+        "fontWeight": "500",
+        "lineHeight": "16px",
+        "letterSpacing": "0.04em"
+      },
+      "headline-xl-mobile": {
+        "fontFamily": "Plus Jakarta Sans",
+        "fontSize": "32px",
+        "fontWeight": "800",
+        "lineHeight": "40px",
+        "letterSpacing": "-0.02em"
+      },
+      "headline-md": {
+        "fontFamily": "Plus Jakarta Sans",
+        "fontSize": "22px",
+        "fontWeight": "600",
+        "lineHeight": "30px",
+        "letterSpacing": "-0.01em"
+      },
+      "body-sm": {
+        "fontFamily": "Plus Jakarta Sans",
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "lineHeight": "18px"
+      },
+      "headline-lg": {
+        "fontFamily": "Plus Jakarta Sans",
+        "fontSize": "32px",
+        "fontWeight": "700",
+        "lineHeight": "40px",
+        "letterSpacing": "-0.02em"
+      }
+    },
+    "spacing": {
+      "gutter-mobile": "1rem",
+      "space-md": "1rem",
+      "space-xs": "0.25rem",
+      "margin-mobile": "1rem",
+      "space-sm": "0.5rem",
+      "space-xl": "2.5rem",
+      "space-lg": "1.5rem",
+      "gutter": "1.5rem",
+      "margin": "2rem"
+    },
+    "headlineFontFamily": "Plus Jakarta Sans",
+    "bodyFontFamily": "Plus Jakarta Sans",
+    "labelFontFamily": "JetBrains Mono"
+  },
+  "deviceType": "MOBILE",
+  "screenType": "DESIGN",
+  "screenMetadata": {
+    "agentType": "PRO_AGENT",
+    "status": "COMPLETE"
+  },
+  "designSystem": {
+    "name": "assets/b4a950a5a4c14d4aaaf90b383530cdbe",
+    "designSystem": {
+      "displayName": "Pastel Blossom Tech",
+      "styleGuidelines": "## Brand & Style\n\nThis design system expresses the intersection of aspiring technical competence and soft, approachable warmth. Created for a female Software Engineering vocational student (Siswi XI RPL SMKN 6 Surakarta), it avoids cold, sterile developer tropes in favor of an airy, welcoming aesthetic that remains rigorously structured and legible.\n\nThe visual mood blends modern glassmorphism and tactile softness: clean white elevated surfaces, gentle blush tints, smooth pastel glows, and graceful curves. The emotional tone evokes youthful ambition, discipline, precision, and authentic charm—making school projects, engineering skills, and personal milestones feel both delightful and professional to potential internship recruiters, educators, and peers.\n\n## Layout & Spacing\n\nThe portfolio is structured on a 12-column responsive grid (max-width `1200px`) centered over the pastel canvas. On mobile screens, it naturally collapses into a unified 4-column flow with reduced gutters and edge margins.\n\n- **Grid Behavior**: Desktop spans multiple column arrangements (e.g., 4-col sidebar with 8-col project stream; 3-col project showcase cards). Tablets collapse into a 2-column card layout, while smartphones adopt a stacked 1-column hierarchy.\n- **Rhythm**: Component interiors prioritize comfortable internal breathing room, utilizing `space-lg` (`1.5rem`) for standard card padding and `space-xl` (`2.5rem`) for section delineation.\n\n## Elevation & Depth\n\nVisual depth avoids harsh grays, relying instead on diffused, rosy light and subtle translucency:\n\n- **Ambient Pink Glow (Level 1)**: `0 4px 20px -2px rgba(244, 114, 182, 0.12)`, paired with an ultra-thin border `1px solid rgba(244, 114, 182, 0.22)`. Standard for resting cards and profile modules.\n- **Hover / Focus Lift (Level 2)**: `0 12px 30px -4px rgba(219, 39, 119, 0.18)`, with an increased border highlight `1px solid rgba(219, 39, 119, 0.35)`. Translates elements -2px on the Y-axis.\n- **Glass Floating Navigation**: `rgba(255, 255, 255, 0.85)` surface with `backdrop-filter: blur(12px)` and a subtle bottom border `1px solid rgba(252, 231, 243, 0.9)`.\n\n## Components\n\n### Buttons\n- **Primary**: Solid `#DB2777` fill with white text, pill-shaped (`rounded-full`), padded `0.75rem 1.5rem`. On hover: lifts 2px with an enriched `#BE185D` background and `rgba(219, 39, 119, 0.25)` drop shadow.\n- **Secondary / Ghost**: White background `#FFFFFF`, text `#DB2777`, border `1px solid #FCE7F3`. On hover: transitions to `#FDF2F4` fill with `#F472B6` border.\n\n### Chips & Badges\n- **Tech Stack Chips**: Background `#FCE7F3`, text `#DB2777`, font `JetBrains Mono` (`label-sm`), padding `0.25rem 0.75rem`, rounded `9999px`. \n- **Status Indicator**: Glowing pastel dot (e.g., active for student internship / \"Available for PKL\") with pulsing ring animation.\n\n### Cards & Project Showcases\n- White base (`#FFFFFF`) framed in `1px solid rgba(244, 114, 182, 0.25)`, `rounded-2xl` (1.25rem), with Level 1 rosy shadow.\n- Inner layout features an image preview container with rounded top corners, followed by tech chips, project title in `#1F2937`, descriptive text in `#374151`, and a clean link button.\n\n### Form Inputs & Contact Fields\n- Fill `#FFFFFF`, border `1.5px solid #FCE7F3`, rounded `1rem`, text `#1F2937`.\n- Focus state triggers an immediate soft glow `box-shadow: 0 0 0 4px rgba(244, 114, 182, 0.2)` with a `#DB2777` stroke.\n\n### Specialized Elements\n- **Student Profile Hero**: Dual-layer circular avatar ring with `#FCE7F3` and `#DB2777` accents, housing school affiliations (\"SMKN 6 Surakarta - Rekayasa Perangkat Lunak\") alongside social and GitHub repository links.\n- **Skill Progress Bar**: Track in `#FCE7F3`, fill in linear gradient from `#F472B6` to `#DB2777`, rounded `9999px`.",
+      "theme": {
+        "colorMode": "LIGHT",
+        "font": "PLUS_JAKARTA_SANS",
+        "roundness": "ROUND_EIGHT",
+        "customColor": "#db2777",
+        "headlineFont": "PLUS_JAKARTA_SANS",
+        "bodyFont": "PLUS_JAKARTA_SANS",
+        "labelFont": "JETBRAINS_MONO",
+        "namedColors": {
+          "surface_bright": "#f8f9ff",
+          "inverse_on_surface": "#eaf1ff",
+          "on_tertiary_fixed_variant": "#51434c",
+          "surface_tint": "#ba0060",
+          "secondary_container": "#fc79bd",
+          "on_secondary_fixed_variant": "#85145a",
+          "secondary_fixed": "#ffd8e7",
+          "on_tertiary_fixed": "#231820",
+          "on_primary_fixed": "#3f001c",
+          "on_error": "#ffffff",
+          "secondary_fixed_dim": "#ffafd3",
+          "tertiary_fixed": "#f1dde9",
+          "surface_container_high": "#dee9fc",
+          "on_primary_fixed_variant": "#8e0048",
+          "on_tertiary": "#ffffff",
+          "surface_container_low": "#eff4ff",
+          "tertiary_fixed_dim": "#d5c1cd",
+          "inverse_surface": "#27313f",
+          "surface_container_highest": "#d9e3f6",
+          "on_tertiary_container": "#fffeff",
+          "primary_container": "#db2777",
+          "on_secondary": "#ffffff",
+          "primary_fixed_dim": "#ffb1c7",
+          "secondary": "#a43073",
+          "surface_dim": "#d0dbed",
+          "inverse_primary": "#ffb1c7",
+          "error_container": "#ffdad6",
+          "on_primary_container": "#fffdff",
+          "error": "#ba1a1a",
+          "primary": "#b7005e",
+          "surface": "#f8f9ff",
+          "surface_variant": "#d9e3f6",
+          "on_secondary_container": "#76014e",
+          "primary_fixed": "#ffd9e2",
+          "surface_container": "#e6eeff",
+          "on_primary": "#ffffff",
+          "outline_variant": "#e1bec6",
+          "background": "#f8f9ff",
+          "outline": "#8d6f77",
+          "tertiary": "#685962",
+          "on_surface": "#121c2a",
+          "tertiary_container": "#81717b",
+          "surface_container_lowest": "#ffffff",
+          "on_secondary_fixed": "#3d0026",
+          "on_background": "#121c2a",
+          "on_error_container": "#93000a",
+          "on_surface_variant": "#594047"
+        },
+        "designMd": "---\nname: Pastel Blossom Tech\ncolors:\n  surface: '#f8f9ff'\n  surface-dim: '#d0dbed'\n  surface-bright: '#f8f9ff'\n  surface-container-lowest: '#ffffff'\n  surface-container-low: '#eff4ff'\n  surface-container: '#e6eeff'\n  surface-container-high: '#dee9fc'\n  surface-container-highest: '#d9e3f6'\n  on-surface: '#121c2a'\n  on-surface-variant: '#594047'\n  inverse-surface: '#27313f'\n  inverse-on-surface: '#eaf1ff'\n  outline: '#8d6f77'\n  outline-variant: '#e1bec6'\n  surface-tint: '#ba0060'\n  primary: '#b7005e'\n  on-primary: '#ffffff'\n  primary-container: '#db2777'\n  on-primary-container: '#fffdff'\n  inverse-primary: '#ffb1c7'\n  secondary: '#a43073'\n  on-secondary: '#ffffff'\n  secondary-container: '#fc79bd'\n  on-secondary-container: '#76014e'\n  tertiary: '#685962'\n  on-tertiary: '#ffffff'\n  tertiary-container: '#81717b'\n  on-tertiary-container: '#fffeff'\n  error: '#ba1a1a'\n  on-error: '#ffffff'\n  error-container: '#ffdad6'\n  on-error-container: '#93000a'\n  primary-fixed: '#ffd9e2'\n  primary-fixed-dim: '#ffb1c7'\n  on-primary-fixed: '#3f001c'\n  on-primary-fixed-variant: '#8e0048'\n  secondary-fixed: '#ffd8e7'\n  secondary-fixed-dim: '#ffafd3'\n  on-secondary-fixed: '#3d0026'\n  on-secondary-fixed-variant: '#85145a'\n  tertiary-fixed: '#f1dde9'\n  tertiary-fixed-dim: '#d5c1cd'\n  on-tertiary-fixed: '#231820'\n  on-tertiary-fixed-variant: '#51434c'\n  background: '#f8f9ff'\n  on-background: '#121c2a'\n  surface-variant: '#d9e3f6'\ntypography:\n  headline-xl:\n    fontFamily: Plus Jakarta Sans\n    fontSize: 44px\n    fontWeight: '800'\n    lineHeight: 52px\n    letterSpacing: -0.03em\n  headline-xl-mobile:\n    fontFamily: Plus Jakarta Sans\n    fontSize: 32px\n    fontWeight: '800'\n    lineHeight: 40px\n    letterSpacing: -0.02em\n  headline-lg:\n    fontFamily: Plus Jakarta Sans\n    fontSize: 32px\n    fontWeight: '700'\n    lineHeight: 40px\n    letterSpacing: -0.02em\n  headline-lg-mobile:\n    fontFamily: Plus Jakarta Sans\n    fontSize: 26px\n    fontWeight: '700'\n    lineHeight: 34px\n    letterSpacing: -0.01em\n  headline-md:\n    fontFamily: Plus Jakarta Sans\n    fontSize: 22px\n    fontWeight: '600'\n    lineHeight: 30px\n    letterSpacing: -0.01em\n  headline-sm:\n    fontFamily: Plus Jakarta Sans\n    fontSize: 18px\n    fontWeight: '600'\n    lineHeight: 26px\n  body-lg:\n    fontFamily: Plus Jakarta Sans\n    fontSize: 16px\n    fontWeight: '400'\n    lineHeight: 26px\n  body-md:\n    fontFamily: Plus Jakarta Sans\n    fontSize: 14px\n    fontWeight: '400'\n    lineHeight: 22px\n  body-sm:\n    fontFamily: Plus Jakarta Sans\n    fontSize: 12px\n    fontWeight: '400'\n    lineHeight: 18px\n  label-md:\n    fontFamily: JetBrains Mono\n    fontSize: 13px\n    fontWeight: '500'\n    lineHeight: 18px\n    letterSpacing: 0.02em\n  label-sm:\n    fontFamily: JetBrains Mono\n    fontSize: 11px\n    fontWeight: '500'\n    lineHeight: 16px\n    letterSpacing: 0.04em\nrounded:\n  sm: 0.25rem\n  DEFAULT: 0.5rem\n  md: 0.75rem\n  lg: 1rem\n  xl: 1.5rem\n  full: 9999px\nspacing:\n  gutter: 1.5rem\n  gutter-mobile: 1rem\n  margin: 2rem\n  margin-mobile: 1rem\n  space-xs: 0.25rem\n  space-sm: 0.5rem\n  space-md: 1rem\n  space-lg: 1.5rem\n  space-xl: 2.5rem\n---\n\n## Brand & Style\n\nThis design system expresses the intersection of aspiring technical competence and soft, approachable warmth. Created for a female Software Engineering vocational student (Siswi XI RPL SMKN 6 Surakarta), it avoids cold, sterile developer tropes in favor of an airy, welcoming aesthetic that remains rigorously structured and legible.\n\nThe visual mood blends modern glassmorphism and tactile softness: clean white elevated surfaces, gentle blush tints, smooth pastel glows, and graceful curves. The emotional tone evokes youthful ambition, discipline, precision, and authentic charm—making school projects, engineering skills, and personal milestones feel both delightful and professional to potential internship recruiters, educators, and peers.\n\n## Colors\n\nThe palette balances soft strawberry and sakura tones against high-contrast charcoal neutrals to safeguard accessibility and code readability:\n\n- **Primary (`#DB2777`)**: Deep Rose / Magenta. Used for key interactive actions, focused states, prominent links, and emphasized hero metrics.\n- **Secondary (`#F472B6`)**: Soft Rose. Applied to badges, active highlight strokes, progress bars, and glowing interactive hover states.\n- **Tertiary (`#FCE7F3`)**: Pastel Blush. Serves as container fills, chip backings, and subtle boundary tints.\n- **Neutral Core**:\n  - Headings & Primary Text: `#1F2937` (Charcoal Slate) for crisp legibility.\n  - Body Copy: `#374151` (Medium Slate).\n  - Secondary / Muted Text: `#9CA3AF` (Soft Cool Gray).\n- **Surface Foundations**:\n  - Page Canvas: `#FDF2F4` (Delicate Rose Alabaster).\n  - Elevated Cards & Sheets: `#FFFFFF` (Pure White).\n  - Subtle Borders: `#FCE7F3` with optional 1px translucent overlays (`rgba(244, 114, 182, 0.2)`).\n\n## Typography\n\nTypography pairs **Plus Jakarta Sans** for clear, open, friendly editorial layouts with **JetBrains Mono** for technical accents, metadata, tech stack tags (e.g., `Laravel`, `React`, `MySQL`), and student credentials (e.g., `NISN / RPL-6`).\n\n- **Plus Jakarta Sans** conveys youthfulness without losing professional poise, utilizing relaxed geometries and high legibility.\n- **JetBrains Mono** roots the portfolio firmly in software craftsmanship, contrasting softly against rounded pink elements.\n- Tight negative tracking (`-0.03em`) on major headlines anchors visual prominence, while body copy retains breathable line-height for effortless reading.\n\n## Layout & Spacing\n\nThe portfolio is structured on a 12-column responsive grid (max-width `1200px`) centered over the pastel canvas. On mobile screens, it naturally collapses into a unified 4-column flow with reduced gutters and edge margins.\n\n- **Grid Behavior**: Desktop spans multiple column arrangements (e.g., 4-col sidebar with 8-col project stream; 3-col project showcase cards). Tablets collapse into a 2-column card layout, while smartphones adopt a stacked 1-column hierarchy.\n- **Rhythm**: Component interiors prioritize comfortable internal breathing room, utilizing `space-lg` (`1.5rem`) for standard card padding and `space-xl` (`2.5rem`) for section delineation.\n\n## Elevation & Depth\n\nVisual depth avoids harsh grays, relying instead on diffused, rosy light and subtle translucency:\n\n- **Ambient Pink Glow (Level 1)**: `0 4px 20px -2px rgba(244, 114, 182, 0.12)`, paired with an ultra-thin border `1px solid rgba(244, 114, 182, 0.22)`. Standard for resting cards and profile modules.\n- **Hover / Focus Lift (Level 2)**: `0 12px 30px -4px rgba(219, 39, 119, 0.18)`, with an increased border highlight `1px solid rgba(219, 39, 119, 0.35)`. Translates elements -2px on the Y-axis.\n- **Glass Floating Navigation**: `rgba(255, 255, 255, 0.85)` surface with `backdrop-filter: blur(12px)` and a subtle bottom border `1px solid rgba(252, 231, 243, 0.9)`.\n\n## Shapes\n\nThe design system embraces a high-radius curve style (`rounded-2xl` / `1rem` to `1.5rem`) across structural modules to reinforce softness and gentleness:\n\n- **Cards & Hero Containers**: Use `1.25rem` (20px) to `1.5rem` (24px) corner radii.\n- **Buttons & Tags**: Retain pill profiles (`rounded-full` / `9999px`) to emphasize touch-friendliness and playfulness.\n- **Thumbnails & Avatars**: Profile photography and software screenshots utilize smooth `1rem` (16px) corners, framed by a 3px pure white border and soft pink drop glow.\n\n## Components\n\n### Buttons\n- **Primary**: Solid `#DB2777` fill with white text, pill-shaped (`rounded-full`), padded `0.75rem 1.5rem`. On hover: lifts 2px with an enriched `#BE185D` background and `rgba(219, 39, 119, 0.25)` drop shadow.\n- **Secondary / Ghost**: White background `#FFFFFF`, text `#DB2777`, border `1px solid #FCE7F3`. On hover: transitions to `#FDF2F4` fill with `#F472B6` border.\n\n### Chips & Badges\n- **Tech Stack Chips**: Background `#FCE7F3`, text `#DB2777`, font `JetBrains Mono` (`label-sm`), padding `0.25rem 0.75rem`, rounded `9999px`. \n- **Status Indicator**: Glowing pastel dot (e.g., active for student internship / \"Available for PKL\") with pulsing ring animation.\n\n### Cards & Project Showcases\n- White base (`#FFFFFF`) framed in `1px solid rgba(244, 114, 182, 0.25)`, `rounded-2xl` (1.25rem), with Level 1 rosy shadow.\n- Inner layout features an image preview container with rounded top corners, followed by tech chips, project title in `#1F2937`, descriptive text in `#374151`, and a clean link button.\n\n### Form Inputs & Contact Fields\n- Fill `#FFFFFF`, border `1.5px solid #FCE7F3`, rounded `1rem`, text `#1F2937`.\n- Focus state triggers an immediate soft glow `box-shadow: 0 0 0 4px rgba(244, 114, 182, 0.2)` with a `#DB2777` stroke.\n\n### Specialized Elements\n- **Student Profile Hero**: Dual-layer circular avatar ring with `#FCE7F3` and `#DB2777` accents, housing school affiliations (\"SMKN 6 Surakarta - Rekayasa Perangkat Lunak\") alongside social and GitHub repository links.\n- **Skill Progress Bar**: Track in `#FCE7F3`, fill in linear gradient from `#F472B6` to `#DB2777`, rounded `9999px`.",
+        "colorVariant": "FIDELITY",
+        "overridePrimaryColor": "#db2777",
+        "overrideSecondaryColor": "#f472b6",
+        "overrideTertiaryColor": "#fce7f3",
+        "overrideNeutralColor": "#1f2937",
+        "spacingScale": 2,
+        "typography": {
+          "body-md": {
+            "fontFamily": "Plus Jakarta Sans",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "lineHeight": "22px"
+          },
+          "headline-xl-mobile": {
+            "fontFamily": "Plus Jakarta Sans",
+            "fontSize": "32px",
+            "fontWeight": "800",
+            "lineHeight": "40px",
+            "letterSpacing": "-0.02em"
+          },
+          "headline-lg": {
+            "fontFamily": "Plus Jakarta Sans",
+            "fontSize": "32px",
+            "fontWeight": "700",
+            "lineHeight": "40px",
+            "letterSpacing": "-0.02em"
+          },
+          "headline-md": {
+            "fontFamily": "Plus Jakarta Sans",
+            "fontSize": "22px",
+            "fontWeight": "600",
+            "lineHeight": "30px",
+            "letterSpacing": "-0.01em"
+          },
+          "label-sm": {
+            "fontFamily": "JetBrains Mono",
+            "fontSize": "11px",
+            "fontWeight": "500",
+            "lineHeight": "16px",
+            "letterSpacing": "0.04em"
+          },
+          "label-md": {
+            "fontFamily": "JetBrains Mono",
+            "fontSize": "13px",
+            "fontWeight": "500",
+            "lineHeight": "18px",
+            "letterSpacing": "0.02em"
+          },
+          "body-sm": {
+            "fontFamily": "Plus Jakarta Sans",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "lineHeight": "18px"
+          },
+          "headline-lg-mobile": {
+            "fontFamily": "Plus Jakarta Sans",
+            "fontSize": "26px",
+            "fontWeight": "700",
+            "lineHeight": "34px",
+            "letterSpacing": "-0.01em"
+          },
+          "body-lg": {
+            "fontFamily": "Plus Jakarta Sans",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "lineHeight": "26px"
+          },
+          "headline-xl": {
+            "fontFamily": "Plus Jakarta Sans",
+            "fontSize": "44px",
+            "fontWeight": "800",
+            "lineHeight": "52px",
+            "letterSpacing": "-0.03em"
+          },
+          "headline-sm": {
+            "fontFamily": "Plus Jakarta Sans",
+            "fontSize": "18px",
+            "fontWeight": "600",
+            "lineHeight": "26px"
+          }
+        },
+        "spacing": {
+          "space-md": "1rem",
+          "space-xs": "0.25rem",
+          "margin": "2rem",
+          "gutter": "1.5rem",
+          "space-sm": "0.5rem",
+          "space-xl": "2.5rem",
+          "space-lg": "1.5rem",
+          "margin-mobile": "1rem",
+          "gutter-mobile": "1rem"
+        },
+        "headlineFontFamily": "Plus Jakarta Sans",
+        "bodyFontFamily": "Plus Jakarta Sans",
+        "labelFontFamily": "JetBrains Mono"
+      }
+    },
+    "version": "1"
+  }
+}
